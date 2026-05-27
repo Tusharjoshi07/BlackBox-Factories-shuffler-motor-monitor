@@ -1,0 +1,42 @@
+{
+  "0.0": {
+    "name": "Normal",
+    "baseline_day": "Apr 24",
+    "baseline_mean": -0.1245,
+    "baseline_std": 0.003,
+    "alert_threshold": -0.1335,
+    "warning_threshold": -0.1305,
+    "total_cycles": 42,
+    "days": [
+      "Apr 24",
+      "Apr 29"
+    ]
+  },
+  "1.0": {
+    "name": "Endurance",
+    "baseline_day": "Apr 25",
+    "baseline_mean": -0.1338,
+    "baseline_std": NaN,
+    "alert_threshold": NaN,
+    "warning_threshold": NaN,
+    "total_cycles": 82,
+    "days": [
+      "Apr 25",
+      "Apr 27"
+    ]
+  },
+  "2.0": {
+    "name": "Maintenance",
+    "baseline_day": "Apr 24",
+    "baseline_mean": -0.1269,
+    "baseline_std": 0.0025,
+    "alert_threshold": -0.1343,
+    "warning_threshold": -0.1318,
+    "total_cycles": 1185,
+    "days": [
+      "Apr 24",
+      "Apr 25",
+      "Apr 29"
+    ]
+  }
+}
